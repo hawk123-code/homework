@@ -1,0 +1,29 @@
+li{
+    width: 300px;
+    display: inline-block;
+}
+nav{
+    background-color: rgb(18, 178, 218);
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+main{
+    background-color: rgb(245, 241, 11);
+    font-size: 20px;
+}
+footer{
+    background-color: rgb(167, 165, 165);
+}
+header{
+    background-color:rgb(167, 165, 165);
+}
+h1{
+    text-align: center;
+    color: rgb(21, 21, 145);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    line-height: 40px;
+}
